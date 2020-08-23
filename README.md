@@ -8,3 +8,5 @@
 ##### preprocess.py -> to prepare the dataset to be used to train the model.
 
 ##### prepreprocess.py -> used if the translation dataset is separated in two files.
+
+Currently this project requires more training and testing data.
